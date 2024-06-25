@@ -1,0 +1,16 @@
+# Ignore MongoDB data directory
+/data/
+
+# Ignore MongoDB log files
+*.log
+
+# Ignore MongoDB configuration files
+*.conf
+
+# Ignore MongoDB dump files
+*.bson
+*.dump
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
